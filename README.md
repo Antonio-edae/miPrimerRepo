@@ -10,3 +10,6 @@ una actualizacion mas
 
 
 Cambios desde developer 01
+
+
+cambio desde redname editos
