@@ -7,3 +7,6 @@ Mi primera contibucion para github
 Un commir mas desde github
 
 una actualizacion mas
+
+
+Cambios desde developer 01
